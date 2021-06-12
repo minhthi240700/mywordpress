@@ -11,11 +11,25 @@
 	<atom:link href="http://localhost/myproject/wordpress/tin-tuc/chung-toi-tu-hao-khi-duoc-dong-hanh-voi-bong-da-viet-nam/feed/" rel="self" type="application/rss+xml" />
 	<link>https://minhthi240700.github.io/mywordpress/tin-tuc/chung-toi-tu-hao-khi-duoc-dong-hanh-voi-bong-da-viet-nam/</link>
 	<description>Huỳnh Minh Thi</description>
-	<lastBuildDate>Wed, 09 Jun 2021 14:21:38 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 12 Jun 2021 04:21:42 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
-</channel>
+	<item>
+		<title>
+		Bởi: Thi		</title>
+		<link>https://minhthi240700.github.io/mywordpress/tin-tuc/chung-toi-tu-hao-khi-duoc-dong-hanh-voi-bong-da-viet-nam/#comment-15</link>
+
+		<dc:creator><![CDATA[Thi]]></dc:creator>
+		<pubDate>Sat, 12 Jun 2021 04:21:42 +0000</pubDate>
+		<guid isPermaLink="false">https://minhthi240700.github.io/mywordpress/?p=163#comment-15</guid>
+
+					<description><![CDATA[tuyệt vời]]></description>
+			<content:encoded><![CDATA[<p>tuyệt vời</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
 </rss>

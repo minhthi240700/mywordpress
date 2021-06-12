@@ -11,11 +11,25 @@
 	<atom:link href="http://localhost/myproject/wordpress/tin-tuc/bon-truong-cua-viet-nam-vao-bang-xep-hang-dai-hoc-the-gioi-nam-2022/feed/" rel="self" type="application/rss+xml" />
 	<link>https://minhthi240700.github.io/mywordpress/tin-tuc/bon-truong-cua-viet-nam-vao-bang-xep-hang-dai-hoc-the-gioi-nam-2022/</link>
 	<description>Huỳnh Minh Thi</description>
-	<lastBuildDate>Wed, 09 Jun 2021 14:26:09 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 12 Jun 2021 04:21:02 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
-</channel>
+	<item>
+		<title>
+		Bởi: Thi		</title>
+		<link>https://minhthi240700.github.io/mywordpress/tin-tuc/bon-truong-cua-viet-nam-vao-bang-xep-hang-dai-hoc-the-gioi-nam-2022/#comment-13</link>
+
+		<dc:creator><![CDATA[Thi]]></dc:creator>
+		<pubDate>Sat, 12 Jun 2021 04:21:02 +0000</pubDate>
+		<guid isPermaLink="false">https://minhthi240700.github.io/mywordpress/?p=171#comment-13</guid>
+
+					<description><![CDATA[hello]]></description>
+			<content:encoded><![CDATA[<p>hello</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
 </rss>

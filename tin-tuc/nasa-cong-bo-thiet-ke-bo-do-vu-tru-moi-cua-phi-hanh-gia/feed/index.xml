@@ -11,11 +11,25 @@
 	<atom:link href="http://localhost/myproject/wordpress/tin-tuc/nasa-cong-bo-thiet-ke-bo-do-vu-tru-moi-cua-phi-hanh-gia/feed/" rel="self" type="application/rss+xml" />
 	<link>https://minhthi240700.github.io/mywordpress/tin-tuc/nasa-cong-bo-thiet-ke-bo-do-vu-tru-moi-cua-phi-hanh-gia/</link>
 	<description>Huỳnh Minh Thi</description>
-	<lastBuildDate>Wed, 09 Jun 2021 14:21:29 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 12 Jun 2021 04:22:26 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
-</channel>
+	<item>
+		<title>
+		Bởi: Thi		</title>
+		<link>https://minhthi240700.github.io/mywordpress/tin-tuc/nasa-cong-bo-thiet-ke-bo-do-vu-tru-moi-cua-phi-hanh-gia/#comment-16</link>
+
+		<dc:creator><![CDATA[Thi]]></dc:creator>
+		<pubDate>Sat, 12 Jun 2021 04:22:26 +0000</pubDate>
+		<guid isPermaLink="false">https://minhthi240700.github.io/mywordpress/?p=167#comment-16</guid>
+
+					<description><![CDATA[tuyệt vời]]></description>
+			<content:encoded><![CDATA[<p>tuyệt vời</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
 </rss>
