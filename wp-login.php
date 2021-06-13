@@ -48,7 +48,7 @@
 		</form>
 
 					<p id="nav">
-				<a href="https://minhthi240700.github.io/mywordpress/wp-login.php?action=register">Đăng ký</a> | 				<a href="https://minhthi240700.github.io/mywordpress/tai-khoan/lost-password/">Bạn quên mật khẩu?</a>
+				<a href="https://minhthi240700.github.io/mywordpress/wp-login.php?action=register">Đăng ký</a> | 				<a href="https://minhthi240700.github.io/mywordpress/wp-login.php?action=lostpassword">Bạn quên mật khẩu?</a>
 			</p>
 					<script type="text/javascript">
 			function wp_attempt_focus() {setTimeout( function() {try {d = document.getElementById( "user_login" );d.focus(); d.select();} catch( er ) {}}, 200);}
